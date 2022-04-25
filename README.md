@@ -1,11 +1,13 @@
 # SevenApps - Frontend Test
 
+Para visualizar o resultado do projeto [clique aqui](https://branndon.github.io/react-seven-apps/).
+
 Para instalar as dependências do projeto, utilize o comando abaixo.
 ### `npm i`
 
 Para rodar:
 ### `npm run start`
-Este comando vai abrir uma janela do projeto no navegador (`http://localhost:3000/`).
+Este comando vai abrir uma janela do projeto no navegador (<http://localhost:3000/>).
 
 ## Sobre o projeto
 
