@@ -12,7 +12,7 @@ import Routes from './routes'
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <GlobalStyle />
       <Header />
       <Main>
