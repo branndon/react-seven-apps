@@ -19,9 +19,10 @@ O projeto foi construído utilizando o `react-create-app` e outras tecnologias c
 -  `Jest and Enzyme/React Testing Library`: para os testes unitários;
 -  `styled-components`: para estilização dos componentes em React;
 -  `react-i18next`: para internacionalização do projeto (pt-br/en);
--  `@mui/material`: para utilização de alguns componentes prontos como botões.
+-  `@mui/material`: para utilização de alguns componentes prontos como botões;
+-  `gh-pages`: para build e publicação do projeto no Github Pages.
 
-O projeto é responsivo (desktop-first).
+O projeto é responsivo.
 
 Para rodar os testes:
 ### `npm run test`
