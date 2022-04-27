@@ -16,7 +16,7 @@ O projeto foi construído utilizando o `react-create-app` e outras tecnologias c
 -  `react-router-dom`: para roteamento;
 -  `axios`: para requisições;
 -  `react-js-pagination` to help the work on paginations;
--  `Jest and Enzyme/React Testing Library`: para os testes unitários;
+-  `Jest/React Testing Library`: para os testes unitários;
 -  `styled-components`: para estilização dos componentes em React;
 -  `react-i18next`: para internacionalização do projeto (pt-br/en);
 -  `@mui/material`: para utilização de alguns componentes prontos como botões;
